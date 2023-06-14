@@ -27,15 +27,22 @@ font-size: 50px;
    .section-three{
     width: 100%;
    }
+   .back-image{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   }
    .three-a{
     padding-left: 25px;
     padding-right: 25px;
+    border-left: 5px solid tomato;
     
     
    }
    .three-b{
     padding-left: 25px;
     padding-right: 25px;
+    border-left: 5px solid blue;
    }
    .box{
     
@@ -45,6 +52,8 @@ font-size: 50px;
     
     margin-left: 5%;
     margin-right: 5%;
+    border-radius: 10px;
+    
 
    }
 
@@ -95,4 +104,7 @@ font-size: 50px;
    .right-padding-p{
     padding-right: 49px;
     text-align: justify;
+   }
+   footer{
+    text-align: center;
    }
