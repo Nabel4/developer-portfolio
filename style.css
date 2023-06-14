@@ -5,25 +5,43 @@ body{
 h1{
 font-size: 50px;
 }
-.orange{
+.h2-tag{
     color: orange;
    }
    section{
     display: flex;
    }
-   .half-width{
+   .first-section{
     width: 50%;
     padding-left: 5%;
     
    }
-   .half-width img{
+   .second-section{
+    width: 50%;
+    padding-right: 5%;
+   }
+
+
+   .first-section img{
    width: 70%;
    padding-top: 35px;
    padding-left: 25px;
    }
-   .hire-me-button{
+   .second-section img{
+    width: 400px ;
+    padding-left: 125px;
+   }
+
+
+
+
+
+
+
+
+   .hire-download-button{
     text-decoration: none;
-    /* background-color: orange; */
+    
     background-image: linear-gradient(orange,tomato);
     color: white;
     font-weight: 700;
@@ -38,4 +56,13 @@ font-size: 50px;
     background-repeat: 
     no-repeat;
    }
-    
+   .down-banner{
+    background-image: url(
+        images/dream-bg.png
+    );
+    background-repeat: no-repeat;
+    background-position: right;
+   }
+   .right-padding-p{
+    padding-right: 37px;
+   }
