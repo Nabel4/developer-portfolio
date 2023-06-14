@@ -8,9 +8,13 @@ font-size: 50px;
 .h2-tag{
     color: orange;
    }
-   section{
+   .section{
     display: flex;
    }
+   
+
+   
+
    .first-section{
     width: 50%;
     padding-left: 5%;
@@ -20,6 +24,22 @@ font-size: 50px;
     width: 50%;
     padding-right: 5%;
    }
+   .section-three{
+    width: 100%;
+   }
+   .three-a{
+    padding-left: 25px;
+    padding-right: 20px;
+    
+   }
+   .three-b{
+    padding-right: 25px;
+    
+   }
+
+
+
+
 
 
    .first-section img{
