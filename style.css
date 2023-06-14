@@ -29,10 +29,8 @@ font-size: 50px;
    }
    .second-section img{
     width: 400px ;
-    padding-left: 125px;
+    padding-left: 100px;
    }
-
-
 
 
 
@@ -64,5 +62,6 @@ font-size: 50px;
     background-position: right;
    }
    .right-padding-p{
-    padding-right: 37px;
+    padding-right: 49px;
+    text-align: justify;
    }
