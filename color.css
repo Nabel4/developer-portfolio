@@ -148,20 +148,23 @@ padding-left: 180px;
     padding-top: 10px;
     display: flex;
     list-style: none;
-    margin-left: 250px;
+    
     margin-top: 0px;
    }
    .section-d-a{
-    margin-right: 250px;
+    
     margin-top: 0px;
     padding: 5px 5px 5px 5px;
    }
    .section-d-b{
-    margin-right: 250px;
+    margin-left: 500px;
     padding: 5px 5px 5px 5px;
+    
    }
    .section-d-c{
     padding: 5px 5px 5px 5px;
+    margin-left: 450px;
+    
    }
 
 
