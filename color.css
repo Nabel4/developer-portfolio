@@ -1,14 +1,123 @@
 h1{
     font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    margin: 0;
+}
+h2{font-family: 'Codystar', cursive;}
+
+h3{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 30px;
 }
 p{
-    font-family: 'Poppins', sans-serif;
-    font-size: 50px;
+    text-align: justify;
 }
-h2{
-    font-family: 'Codystar', cursive;
+
+section{
+    display: flex;
+    width: 50%;
 }
-h5{
-    font-family: 'Bungee Shade', cursive;
-    font-size: 50px;
+.section-a{
+    background-image: url(images/color.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 80%;
+    background-size: cover;
 }
+.div-a-a{
+    width: 50%;
+    padding-left: 3%;
+    
+}
+.div-a-b{
+    /* padding: 0px 5px 100px 5px; */
+    width: 50%;
+    padding-right: 13%;
+    padding-top: 1%;
+    padding-bottom: ;
+    padding-left: 10%;
+    
+}
+.div-a-b img{
+width: 400px;
+padding-left: 180px;
+}
+.section-b{
+    background-image: url(images/yearphone.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 80%;
+    background-size: cover;
+    }
+
+.div-b-a{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 15%;
+
+}
+.div-b-b{
+    width: 50%;
+    padding-left: ;
+    padding-right: ;
+    padding-top: ;
+    padding-bottom: ;
+}
+.div-b-b img{
+    width: 500px;
+}
+.section-c{
+    background-image: url(images/wall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 30%;
+    background-size: cover;
+    }
+    .div-c-a{
+        width: 50%;
+    padding-left: 5%;
+    padding-right: 0%;
+    padding-top: %;
+    }
+    .div-c-b{
+        width: 50%;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 20;
+    
+    }
+    .div-c-b img{
+        width: 450px;
+        padding-left: 10%;
+        height: 450px;
+    }
+    footer{
+        text-align: center;
+        background-image: url(images/wood.jpg);
+        background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    }
+    section{
+      width: 33%;
+    }
+
+    
+    .section-d-abc{
+        text-decoration: none;
+        width: 33%;
+        background-image: linear-gradient(orange,tomato);
+        color: white;
+        font-weight: 700;
+        padding: 5px 15px;
+        border-radius: 5px;
+    }
